@@ -1,0 +1,3 @@
+The original files for Cave, Creep, Noisescape and Final have a "left" version and "right" version, probably referring to audio channels (I didn't actually check them). The files that I got that are in this folder are the fused two versions of the songs.
+
+-u/Majongusus_Doremidus
